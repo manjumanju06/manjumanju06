@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 hsahsakhkas
+=======
+
+
+This is the second file.
+This file is created in "feature-branch".
+
+
+
+Making changes in the existing file in branch "module-three".
+
+1
+22
+333
+4444
+55555
+
+>>>>>>> module-three
